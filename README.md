@@ -95,4 +95,12 @@ hand-gesture-control/
 
 - [MediaPipe](https://google.github.io/mediapipe/) by Google for hand landmark detection  
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) for automating keyboard input  
-- [OpenCV](https://opencv.org/) for video processing  
+- [OpenCV](https://opencv.org/) for video processing
+
+---
+
+## 🙌 Author
+
+Created by **Pankaj Prajapat**  
+Follow me on [LinkedIn](www.linkedin.com/in/pankajprajapat367) | [GitHub]([https://github.com](https://github.com/Pankaj-Prajapat367))
+
